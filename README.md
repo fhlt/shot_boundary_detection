@@ -8,7 +8,7 @@
 + 时长：58s
 + 帧率：24
 + 总帧数： 1405   
-+ 视频链接：
++ 视频链接：https://github.com/fhlt/shot_boundary_detection/blob/master/test.mp4
 测试环境：
 + 操作系统：64位 windows 10
 + 处理器：i7-8750H CPU@2.20GHz 2.21GHz 
