@@ -19,9 +19,9 @@
 + 检测出来的镜头边缘帧，它与前一帧的差值应该是此镜头中，所有帧差中最大的。
 
 
-+ 代码链接：
++ 代码链接：https://github.com/fhlt/shot_boundary_detection/blob/master/gray_hist.py
 + 耗时：5.02s
 ## method2
 根据相邻帧颜色直方图的bhattacharyya系数进行kmean聚类，以聚类结果作为镜头区分的依据。
-+ 代码链接：
++ 代码链接：https://github.com/fhlt/shot_boundary_detection/blob/master/shot_boundary.py
 + 耗时：34.12s
